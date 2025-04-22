@@ -1,0 +1,12 @@
+
+             +----------------------------------------+
+             | Vehicle Type  : Sports Car             |
+             |----------------------------------------|
+             | Company       : Volkswagen             |
+             | Name          : Bugatti                |
+             | Number Plate  : MH346996FG             |
+             | Tyres         : 4                      |
+             | Max Speed     : 120                    |
+             | Fuel Capacity : 45L                    |
+             | Price         : 60,600,000             |
+             +----------------------------------------+
